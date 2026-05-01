@@ -7,6 +7,15 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.demo-shell {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    padding: 24px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .traffic-light {
     width: 90px;
     height: 200px;
@@ -37,4 +46,27 @@ body {
 
 .green {
     background-color: green;
+}
+
+.photo-output {
+    width: 220px;
+    padding: 16px;
+    border: 2px solid #111;
+    border-radius: 18px;
+    background: #fff;
+    text-align: center;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+
+.photo-output img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+}
+
+.photo-output p {
+    margin: 12px 0 0;
+    font-weight: 700;
+    color: #222;
 }
