@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Profile illustration">
-  <rect width="400" height="300" rx="24" fill="#f2f2f2"/>
-  <circle cx="200" cy="110" r="54" fill="#d8d8d8"/>
-  <path d="M116 260c14-52 54-78 84-78s70 26 84 78" fill="#d8d8d8"/>
-  <rect x="38" y="38" width="324" height="224" rx="18" fill="none" stroke="#333" stroke-width="4" stroke-dasharray="12 10"/>
-  <text x="200" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#333">Profile Image</text>
-</svg>
